@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/amandinebremont/Desktop/ProjetML-1/.venv"
+VIRTUAL_ENV="/Users/amandinebremont/Documents/COURS MIAGE 2 DAUPHINE /Machine Learning /ProjetML/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

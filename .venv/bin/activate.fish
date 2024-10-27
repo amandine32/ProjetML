@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/amandinebremont/Desktop/ProjetML-1/.venv"
+set -gx VIRTUAL_ENV "/Users/amandinebremont/Documents/COURS MIAGE 2 DAUPHINE /Machine Learning /ProjetML/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
